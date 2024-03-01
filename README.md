@@ -12,4 +12,8 @@ Resources of LabVIEW Icon Editor for CSM.
 
 ## CSM Glyphs
 
-![CSM-Icon](src/Glyphs/CSM/CSM-Icon.png)
+![CSM-Module](src/Glyphs/CSM/CSM-Module.png)
+![CSM-Example](src/Glyphs/CSM/CSM-Example.png)
+![CSM-Module Name](src/Glyphs/CSM/CSM-Module%20Name.png)
+![CSM-Worker Mode](src/Glyphs/CSM/CSM-Worker%20Mode.png)
+![CSM-Chain Mode](src/Glyphs/CSM/CSM-Chain%20Mode.png)
