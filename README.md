@@ -1,5 +1,8 @@
 # CSM-Icon-Editor-Glyphs
 
+<a href="https://www.vipm.io/package/nevstop_lib_csm_icon_editor_glyphs/"> <img src="https://www.vipm.io/package/nevstop_lib_csm_icon_editor_glyphs/badge.svg?metric=installs"></a>
+<a href="https://www.vipm.io/package/nevstop_lib_csm_icon_editor_glyphs/"><img src="https://www.vipm.io/package/nevstop_lib_csm_icon_editor_glyphs/badge.svg?metric=stars"></a>
+
 Resources of LabVIEW Icon Editor for CSM.
 
 ## CSM API Template
