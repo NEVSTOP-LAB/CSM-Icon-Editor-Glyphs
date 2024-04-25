@@ -38,3 +38,8 @@ Resources of LabVIEW Icon Editor for CSM.
 ![CSM-Window2](src/Glyphs/CSM/CSM-Window2.png)
 ![CSM-Dashboard](src/Glyphs/CSM/CSM-Dashboard.png)
 ![CSM-Log(small)](src/Glyphs/CSM/CSM-Log(small).png)
+![CSM-Arguments](src/Glyphs/CSM/CSM-Arguments.png)
+![CSM-API String Argument](src/Glyphs/CSM/CSM-API%20String%20Argument.png)
+![CSM-MassData Argument](src/Glyphs/CSM/CSM-MassData%20Argument.png)
+![Icon%20Editor.png](src/Glyphs/CSM/Icon%20Editor.png)
+![CSM-Glyph.png](src/Glyphs/CSM/CSM-Glyph.png)
