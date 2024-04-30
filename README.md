@@ -48,6 +48,7 @@ Resources of LabVIEW Icon Editor for CSM.
 ![CSM-Window.png](src/Glyphs/CSM/CSM-Window.png)
 ![CSM-Window2.png](src/Glyphs/CSM/CSM-Window2.png)
 ![CSM-Worker Mode.png](src/Glyphs/CSM/CSM-Worker%20Mode.png)
+![DataType(small).png](src/Glyphs/CSM/DataType(small).png)
 ![Icon Editor.png](src/Glyphs/CSM/Icon%20Editor.png)
 ![INI Config File(small).png](src/Glyphs/CSM/INI%20Config%20File(small).png)
 ![INI Config File.png](src/Glyphs/CSM/INI%20Config%20File.png)
