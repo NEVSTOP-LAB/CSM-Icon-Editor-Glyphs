@@ -22,9 +22,6 @@ Resources of LabVIEW Icon Editor for CSM.
 
 ## CSM Glyphs
 
-![Add(CSM Green).png](src/Glyphs/CSM/Add(CSM%20Green).png)
-![API String Data.png](src/Glyphs/CSM/API%20String%20Data.png)
-![Convert.png](src/Glyphs/CSM/Convert.png)
 ![CSM-API String Argument.png](src/Glyphs/CSM/CSM-API%20String%20Argument.png)
 ![CSM-Arguments.png](src/Glyphs/CSM/CSM-Arguments.png)
 ![CSM-Chain Mode.png](src/Glyphs/CSM/CSM-Chain%20Mode.png)
@@ -48,10 +45,17 @@ Resources of LabVIEW Icon Editor for CSM.
 ![CSM-Window.png](src/Glyphs/CSM/CSM-Window.png)
 ![CSM-Window2.png](src/Glyphs/CSM/CSM-Window2.png)
 ![CSM-Worker Mode.png](src/Glyphs/CSM/CSM-Worker%20Mode.png)
+
+
+![Add(CSM Green).png](src/Glyphs/CSM/Add(CSM%20Green).png)
+![API String Data.png](src/Glyphs/CSM/API%20String%20Data.png)
+![Convert.png](src/Glyphs/CSM/Convert.png)
 ![DataType(small).png](src/Glyphs/CSM/DataType(small).png)
 ![Icon Editor.png](src/Glyphs/CSM/Icon%20Editor.png)
 ![INI Config File(small).png](src/Glyphs/CSM/INI%20Config%20File(small).png)
 ![INI Config File.png](src/Glyphs/CSM/INI%20Config%20File.png)
 ![MassData.png](src/Glyphs/CSM/MassData.png)
+![PriorityQueue(small).png](src/Glyphs/CSM/PriorityQueue(small).png)
+![PriorityQueue.png](src/Glyphs/CSM/PriorityQueue.png)
 ![Registry(small).png](src/Glyphs/CSM/Registry(small).png)
 ![User-Event(small).png](src/Glyphs/CSM/User-Event(small).png)
