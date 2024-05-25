@@ -24,6 +24,7 @@ Resources of LabVIEW Icon Editor for CSM.
 ![CSM-Power by CSM-Template.png](src/Icon%20Templates/CSM/CSM-Power%20by%20CSM-Template.png)
 ![CSM-UI Template.png](src/Icon%20Templates/CSM/CSM-UI%20Template.png)
 ![CSM-VI Round Icon Template.png](src/Icon%20Templates/CSM/CSM-VI%20Round%20Icon%20Template.png)
+![CSM-Window Frame.png](src/Icon%20Templates/CSM/CSM-Window%20Frame.png)
 
 ## CSM Glyphs
 
@@ -65,10 +66,12 @@ Resources of LabVIEW Icon Editor for CSM.
 ![Add(CSM Green).png](src/Glyphs/CSM/Add(CSM%20Green).png)
 ![API String Data.png](src/Glyphs/CSM/API%20String%20Data.png)
 ![Cache.png](src/Glyphs/CSM/Cache.png)
+![Case Structure.png](src/Glyphs/CSM/Case%20Structure.png)
 ![Connect(small).png](src/Glyphs/CSM/Connect(small).png)
 ![Convert.png](src/Glyphs/CSM/Convert.png)
 ![DataType(small).png](src/Glyphs/CSM/DataType(small).png)
 ![Disconnect(small).png](src/Glyphs/CSM/Disconnect(small).png)
+![Fool Loop.png](src/Glyphs/CSM/Fool%20Loop.png)
 ![Icon Editor.png](src/Glyphs/CSM/Icon%20Editor.png)
 ![INI Config File(small).png](src/Glyphs/CSM/INI%20Config%20File(small).png)
 ![INI Config File.png](src/Glyphs/CSM/INI%20Config%20File.png)
@@ -79,3 +82,4 @@ Resources of LabVIEW Icon Editor for CSM.
 ![PriorityQueue.png](src/Glyphs/CSM/PriorityQueue.png)
 ![Registry(small).png](src/Glyphs/CSM/Registry(small).png)
 ![User-Event(small).png](src/Glyphs/CSM/User-Event(small).png)
+![While Loop.png](src/Glyphs/CSM/While%20Loop.png)
