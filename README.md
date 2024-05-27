@@ -50,6 +50,8 @@ Resources of LabVIEW Icon Editor for CSM.
 ![CSM-Tool Dashboard Window2.png](src/Glyphs/CSM/CSM-Tool%20Dashboard%20Window2.png)
 ![CSM-Tool Debug Console.png](src/Glyphs/CSM/CSM-Tool%20Debug%20Console.png)
 ![CSM-Tool Debug Console2.png](src/Glyphs/CSM/CSM-Tool%20Debug%20Console2.png)
+![CSM-Tool Debug Console3.png](src/Glyphs/CSM/CSM-Tool%20Debug%20Console3.png)
+![CSM-Tool Debug Console4.png](src/Glyphs/CSM/CSM-Tool%20Debug%20Console4.png)
 ![CSM-Tool LogViewer.png](src/Glyphs/CSM/CSM-Tool%20LogViewer.png)
 ![CSM-Tool LogViewer2.png](src/Glyphs/CSM/CSM-Tool%20LogViewer2.png)
 ![CSM-Tool State Table Window.png](src/Glyphs/CSM/CSM-Tool%20State%20Table%20Window.png)
