@@ -29,6 +29,10 @@ Resources of LabVIEW Icon Editor for CSM.
 
 ## CSM Glyphs
 
+![CSM Script(Blue).png](src/Glyphs/CSM/CSM%20Script(Blue).png)
+![CSM Script(Green).png](src/Glyphs/CSM/CSM%20Script(Green).png)
+![CSM Script(Orange).png](src/Glyphs/CSM/CSM%20Script(Orange).png)
+![CSM Script(Red).png](src/Glyphs/CSM/CSM%20Script(Red).png)
 ![CSM-API String Argument.png](src/Glyphs/CSM/CSM-API%20String%20Argument.png)
 ![CSM-Arguments.png](src/Glyphs/CSM/CSM-Arguments.png)
 ![CSM-Broadcast Status(small).png](src/Glyphs/CSM/CSM-Broadcast%20Status(small).png)
@@ -94,4 +98,5 @@ Resources of LabVIEW Icon Editor for CSM.
 ![PriorityQueue.png](src/Glyphs/CSM/PriorityQueue.png)
 ![Registry(small).png](src/Glyphs/CSM/Registry(small).png)
 ![User-Event(small).png](src/Glyphs/CSM/User-Event(small).png)
+![Watchdog.png](src/Glyphs/CSM/Watchdog.png)
 ![While Loop.png](src/Glyphs/CSM/While%20Loop.png)
