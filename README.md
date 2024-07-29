@@ -20,6 +20,7 @@ Resources of LabVIEW Icon Editor for CSM.
 ![CSM-Instrument Template.png](src/Icon%20Templates/CSM/CSM-Instrument%20Template.png)
 ![CSM-Instrument Template2.png](src/Icon%20Templates/CSM/CSM-Instrument%20Template2.png)
 ![CSM-Library Icon.png](src/Icon%20Templates/CSM/CSM-Library%20Icon.png)
+![CSM-Module Template 2.png](src/Icon%20Templates/CSM/CSM-Module%20Template%202.png)
 ![CSM-Module Template.png](src/Icon%20Templates/CSM/CSM-Module%20Template.png)
 ![CSM-Power by CSM-Template.png](src/Icon%20Templates/CSM/CSM-Power%20by%20CSM-Template.png)
 ![CSM-Support VI Template.png](src/Icon%20Templates/CSM/CSM-Support%20VI%20Template.png)
