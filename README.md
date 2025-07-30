@@ -5,6 +5,13 @@
 
 Resources of LabVIEW Icon Editor for CSM.
 
+**known Issue**
+
+If you see this error after installing this package in VIPM, click "Install Missing Dependencies" in right click menu, to resolve it. 
+
+<img width="818" height="300" alt="image" src="https://github.com/user-attachments/assets/03ada5cd-77c3-4a52-af20-3d71cced6a5a" />
+
+
 ## CSM API Template
 
 ![CSM-API Broadcast Registry.png](src/Icon%20Templates/CSM/CSM-API%20Broadcast%20Registry.png)
